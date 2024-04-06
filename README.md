@@ -1,5 +1,5 @@
 ## Me chamo Henrique
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrique-de-jesus-marinho-1111ab291)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-de-jesus-marinho-1111ab291/)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: flex; gap: 150px; justify-content: center;">
