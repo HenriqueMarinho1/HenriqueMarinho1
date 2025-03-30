@@ -1,6 +1,9 @@
-<h1 align="left">Olá Bem-Vindo 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=35&center=true&width=500&height=70&duration=5000&color=529aed&lines=Seja+Bem+Vindo(a)!;Veja+meus+projetos+%3A)" />
+  </a>
+</h1>
 
-###
 
 <p align="left">Meu nome é Henrique, sou programador há 2 anos e estou me especializando cada vez mais na área.</p>
 
