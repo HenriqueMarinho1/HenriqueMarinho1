@@ -5,19 +5,19 @@
 </h1>
 
 
-<p align="left">Meu nome é Henrique, sou programador há 2 anos e estou me especializando cada vez mais na área.</p>
+<p align="left">Back-End Developer</p>
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">✨ Sou um desenvolvedor apaixonado por criar sites e aplicativos que proporcionam experiências incríveis.<br>📚 Atualmente, me Graduando em Ciência da Computação no Senac, onde estou aprimorando minhas habilidades e conhecimentos.<br>🚀 Sempre em busca de novos desafios e aprendizados para me tornar um profissional ainda melhor.</p>
+<p align="left">✨ I am a passionate developer who loves creating websites and applications that provide amazing experiences.<br>📚 Currently pursuing a degree in Computer Science at Senac, where I am enhancing my skills and knowledge.<br>🚀 Always seeking new challenges and learning opportunities to become an even better professional.</p>
 
 ###
 
-<h2 align="center">Meus principais recursos tecnológicos</h2>
+<h2 align="center">My Main Technological Skills</h2>
 
 ###
 
